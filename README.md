@@ -1,7 +1,7 @@
 <img alt="code gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 <h1 align="center">Hi 👋, I'm Shreyas Pachpute</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Full Stack Web Developer | DBMS Proficient</h3>
+<h3 align="center">Python Developer | AI/ML Enthusiast | Computer Vision | NLP</h3>
 
 <img align = "right" alt="Coding" width = "400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreyaspachpute" target="blank"><img src="https://img.shields.io/twitter/follow/shreyaspachpute?logo=twitter&style=for-the-badge" alt="shreyaspachpute" /></a> </p>
 
-- 🌱 I’m currently learning **React, Django, AI/ML, SQL.**
+- 🌱 I’m currently learning **Computer Vision and Natural Language Processing.**
 
-- 💬 Ask me about **Web-Apps, AI/ML.**
+- 💬 Ask me about **Machine Learning and Data Science.**
 
 - 📫 How to reach me **shreyaspachpute2002@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/shreyas-pachpute-b5882a204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-pachpute-b5882a204" height="30" width="40" /></a>
 <a href="https://kaggle.com/shreyaspachpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyaspachpute" height="30" width="40" /></a>
 <a href="https://instagram.com/_.shreyas._.p._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shreyas._.p._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shreyas pachpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyas pachpute" height="30" width="40" /></a>
+<a href="shreyas pachpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shreyas pachpute" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shreyaspachpute2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyaspachpute2002" height="30" width="40" /></a>
 </p>
 
